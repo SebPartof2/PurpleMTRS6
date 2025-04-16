@@ -1,0 +1,23 @@
+{
+	"custom_trains": {
+		
+		"m45_sro": {
+			"name": "Class 345 (SebRail Orange)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/orange.png"
+		},
+		"m45_srbr": {
+			"name": "Class 345 (SebRail Brown)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/brown.png"
+		},
+		"m45_srb": {
+			"name": "Class 345 (SebRail Blue)",
+			"color": "614199",
+			"base_train_type": "k_train_mini",
+			"texture_id": "mtr:custom_directory/blue.png"
+		}
+	}
+}
