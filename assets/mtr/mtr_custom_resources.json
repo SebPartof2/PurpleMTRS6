@@ -42,7 +42,7 @@
 			"texture_id": "mtr:custom_directory/srisland.png",
 			"flip_texture": false,
 			"custom_text": "SebRail Island Line",
-			"flip_custom_text": false,
+			"flip_custom_text": true,
 			"small": true,
 			"background_color": "1167B1"
 		},
