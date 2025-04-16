@@ -18,10 +18,9 @@
 		}
 	},
 	"sebrail_icon": {
-			"texture_id": "mtr:custom_directory/custom_sign.png",
-			"flip_texture": false,
-			"small": true,
-			"background_color": "1167B1"
-		}
+		"texture_id": "mtr:custom_directory/custom_sign.png",
+		"flip_texture": false,
+		"small": true,
+		"background_color": "1167B1"
 	}
 }
