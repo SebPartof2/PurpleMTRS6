@@ -6,6 +6,15 @@
 			"color": "614199",
 			"base_train_type": "k_train_mini",
 			"texture_id": "mtr:custom_directory/island.png"
-		}
+		},
+		 "custom_signs": {
+    "my_custom_sign": {
+      "texture_id": "mtr:custom_directory/custom_sign.png",
+      "flip_texture": false,
+      "custom_text": "你好|Hello",
+      "flip_custom_text": false,
+      "small": true,
+      "background_color": "1167B1"
+    }
 	}
 }
