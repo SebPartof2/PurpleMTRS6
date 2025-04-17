@@ -5,7 +5,22 @@
 			"color": "614199",
 			"base_train_type": "k_train_mini",
 			"texture_id": "mtr:custom_directory/island.png"
-		}
+		},
+		"class3504tpe": {
+            "name": "Class 350/4 (Kordai)",
+            "wikipedia_article": "British_Rail_Class_350",
+            "color": "404040",
+            "gangway_connection_id": "mtr:class350/350",
+            "train_barrier_id": "",
+            "door_animation_type": "PLUG_FAST",
+            "render_door_overlay": false,
+            "rider_offset": 0,
+            "texture_id": "mtr:class350/class3504tpe",
+            "model": "mtr:class350/class350.bbmodel",
+            "model_properties": "mtr:class350/class350.json",
+			"bve_sound_base_id": "desiro"
+        }
+
 	},
 	"custom_signs": {
 		"sebrail": {
