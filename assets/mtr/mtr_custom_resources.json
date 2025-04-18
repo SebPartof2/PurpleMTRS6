@@ -45,6 +45,12 @@
 			"small": true,
 			"background_color": "1167B1"
 		},
+		"kordai_icon": {
+			"texture_id": "mtr:custom_directory/kordai.png",
+			"flip_texture": false,
+			"small": true,
+			"background_color": "000000"
+		},
 		"sebrail_island": {
 			"texture_id": "mtr:custom_directory/srisland.png",
 			"flip_texture": false,
